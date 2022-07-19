@@ -87,3 +87,6 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+/data_given/Train
+/data_given/Test
