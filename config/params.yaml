@@ -40,7 +40,7 @@ estimators:
       alpha: 0.9
       l1_ratio: 0.4
 
-model_dir: models/birds_classifier.h5
+model_dir: models/malaria_classifier.h5
 
 reports:
   params: reports/params.json
