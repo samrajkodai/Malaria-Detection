@@ -1,7 +1,6 @@
 malaria detection
 ==============================
 
-malaria
 
 Project Organization
 ------------
