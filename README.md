@@ -1,5 +1,5 @@
 
-#   Emotion Classifier.
+#  Malaria Disease Detection.
 
 ![6428f74d-40b2-4026-be26-dd088b542a52](https://user-images.githubusercontent.com/61903698/180166677-bfb13515-6007-4051-8b57-73aa3cc1e4f4.gif)
 
@@ -7,10 +7,9 @@
 for live project you can visit https://emotionclass.herokuapp.com/
 
 ## <a href="url"><img src="https://user-images.githubusercontent.com/61903698/178228250-a11a8416-3443-4c90-8616-8eda1edc4572.jpg" align="left" height="48" width="48" ></a>Description
-* Emotion Classifier created as an AI module Integrated with webapp
-by using NLP, Machine Learning and Flask API.
-* Created as a proof of concept (POC) and the aim is to find users
-emotions.
+* Malaria Disease Detection created as an AI module Integrated with webapp
+by using Deep Learningand Flask API.
+* Created as a proof of concept (POC) and the aim is to detect the Malaria Diseasefrom the Images.
 
 ## <a href="url"><img src="https://user-images.githubusercontent.com/61903698/178230062-a2e8bf94-4769-4e02-a26b-ed3696aae3fe.png" align="left" height="48" width="48" ></a>Dataset
 you can download and use the dataset from kaggle please visit this link to download the dataset
@@ -30,7 +29,7 @@ https://www.kaggle.com/search?q=spam+email+in%3Adatasets](https://www.kaggle.com
 * flask
 * gunicorn
 * PyYAML
-* nltk
+* tensorflow
 * mlflow
 * pickle5==0.0.1
 
