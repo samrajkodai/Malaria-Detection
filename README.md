@@ -4,7 +4,7 @@
 ![6428f74d-40b2-4026-be26-dd088b542a52](https://user-images.githubusercontent.com/61903698/180166677-bfb13515-6007-4051-8b57-73aa3cc1e4f4.gif)
 
 
-for live project you can visit https://emotionclass.herokuapp.com/
+for live project you can visit https://malariaclass.herokuapp.com/
 
 ## <a href="url"><img src="https://user-images.githubusercontent.com/61903698/178228250-a11a8416-3443-4c90-8616-8eda1edc4572.jpg" align="left" height="48" width="48" ></a>Description
 * Malaria Disease Detection created as an AI module Integrated with webapp
