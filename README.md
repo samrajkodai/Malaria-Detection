@@ -1,7 +1,7 @@
 
 #  Malaria Disease Detection.
 
-![6428f74d-40b2-4026-be26-dd088b542a52](https://user-images.githubusercontent.com/61903698/180166677-bfb13515-6007-4051-8b57-73aa3cc1e4f4.gif)
+![95f5dc44-fcdb-4590-a003-95d104d58795](https://user-images.githubusercontent.com/61903698/188264368-70ec3b6a-a01e-4d1b-9264-215aad27d2af.gif)
 
 
 for live project you can visit https://malariaclass.herokuapp.com/
