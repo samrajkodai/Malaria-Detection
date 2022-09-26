@@ -8,7 +8,7 @@ for live project you can visit https://malariaclass.herokuapp.com/
 
 ## <a href="url"><img src="https://user-images.githubusercontent.com/61903698/178228250-a11a8416-3443-4c90-8616-8eda1edc4572.jpg" align="left" height="48" width="48" ></a>Description
 * Malaria Disease Detection created as an AI module Integrated with webapp
-by using Deep Learningand Flask API.
+by using Deep Learningand Flask API
 * Created as a proof of concept (POC) and the aim is to detect the Malaria Diseasefrom the Images.
 
 ## <a href="url"><img src="https://user-images.githubusercontent.com/61903698/178230062-a2e8bf94-4769-4e02-a26b-ed3696aae3fe.png" align="left" height="48" width="48" ></a>Dataset
